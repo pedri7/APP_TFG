@@ -1,9 +1,0 @@
-streamlit
-catboost
-scikit-learn
-pandas
-numpy
-plotly
-openpyxl
-shap
-matplotlib
